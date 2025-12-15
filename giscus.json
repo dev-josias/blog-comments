@@ -1,0 +1,9 @@
+{
+  "origins": [
+    "http://localhost:3000",
+    "http://localhost:3001",
+    "https://giscus.app"
+  ],
+  "originsRegex": ["http://localhost:[0-9]+"],
+  "defaultCommentOrder": "newest"
+}
